@@ -2,3 +2,12 @@ body{
     text-align: center;
     background: lightblue;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+div{
+    margin: 70px;
+}
